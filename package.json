@@ -1,0 +1,24 @@
+{
+  "name": "exam-prep",
+  "version": "1.0.0",
+  "description": "exam-prep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlestanev/exam-prep.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlestanev/exam-prep/issues"
+  },
+  "homepage": "https://github.com/charlestanev/exam-prep#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.1"
+  }
+}
